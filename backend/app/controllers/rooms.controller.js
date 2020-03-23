@@ -21,7 +21,7 @@ const createRoomFileSync = () => {
 
   roomsData[0] = {
     id: uuid(),
-    name: "Grs e Comercial",
+    name: "Grs, Comercial, 2 Ways e Camuflada",
     disableMeeting: true,
   };
 
@@ -29,6 +29,8 @@ const createRoomFileSync = () => {
     "Comercial",
     "GRs Internas",
     "GRs Externas",
+	"2 Ways",
+	"Camuflada",
 	"Reunião 1",
 	"Reunião 2",
 	"Reunião 3",
